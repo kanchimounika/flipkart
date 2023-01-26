@@ -1,0 +1,9 @@
+{
+	"name": "YTBADF25",
+	"location": "australiaeast",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "7bc9f44d-ad4f-43f8-b101-497f4c35c051",
+		"tenantId": "4eb866cc-df94-4c6b-b79d-c41a0050f0ca"
+	}
+}
