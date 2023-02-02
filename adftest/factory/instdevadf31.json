@@ -1,0 +1,9 @@
+{
+	"name": "instdevadf31",
+	"location": "australiaeast",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "fb031724-1186-48af-8df6-f8142f151d92",
+		"tenantId": "4eb866cc-df94-4c6b-b79d-c41a0050f0ca"
+	}
+}
