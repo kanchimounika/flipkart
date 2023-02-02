@@ -1,0 +1,9 @@
+{
+	"name": "flipkartdevadf02",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "ed90ebf2-a476-4a1a-ba0c-8f5ef10f5842",
+		"tenantId": "4eb866cc-df94-4c6b-b79d-c41a0050f0ca"
+	}
+}
